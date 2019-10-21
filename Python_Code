@@ -1,3 +1,18 @@
-def Student(student_no,student_name,course_code):
-    list=[]
-    for i in range(0,n)
+def Add(student_no_1,student_name_1,course_code_1,student_no_2,student_name_2,course_code_2,student_no_3,student_name_3,course_code_3):
+    
+    list1=[student_no_1,student_name_1,course_code_1]
+    list2=[student_no_2,student_name_2,course_code_2]
+    list3=[student_no_3,student_name_3,course_code_3]
+    list_final=[list1,list2,list3]
+    
+    student_no
+    
+    for l in list1:
+        l.sort(student_no_1,student_no_2)
+    
+def sort(a,b)
+
+    if a>b:
+        temp=b
+        b=a
+        a=temp
