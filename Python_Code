@@ -1,0 +1,3 @@
+def Student(student_no,student_name,course_code):
+    list=[]
+    for i in range(0,n)
