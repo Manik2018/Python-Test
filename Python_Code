@@ -5,10 +5,14 @@ def Add(student_no_1,student_name_1,course_code_1,student_no_2,student_name_2,co
     list3=[student_no_3,student_name_3,course_code_3]
     list_final=[list1,list2,list3]
     
-    student_no
+    list_no=[list1[0],list2[0],list3[0]]
     
-    for l in list1:
-        l.sort(student_no_1,student_no_2)
+    for l in list_no
+        sort(l[0],l[1])
+    
+    
+def retrive(list_final):
+    print(list_final)
     
 def sort(a,b)
 
